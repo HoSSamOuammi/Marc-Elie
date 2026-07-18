@@ -7,5 +7,6 @@
 # Conserver tous les fichiers source C, presents et futurs
 !*.c
 
-# Conserver ce fichier de configuration dans Git
-!.gitignore
+# Ignorer explicitement ce fichier et tous les dossiers Visual Studio
+.gitignore
+.vs/
