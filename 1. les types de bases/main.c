@@ -13,7 +13,9 @@ les types de bases :
             ! int number = 10
             ! char nombre = '10'
             ! les deux ne representent pas la meme chose
-
+4- booléen : c'est une variable qui prend soit 0 soit 1
+            ! attention avant de l'utiliser il faut inclure la bibliotheque "#include <stdbool.h>"
+            ! donc c'est pas un type de base mais un type de donnée
 ===============================
 initialisation et constantes :
 ===============================
